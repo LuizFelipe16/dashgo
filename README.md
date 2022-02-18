@@ -1,34 +1,144 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Banner](/public/banner.png)
 
-## Getting Started
+<br/>
 
-First, run the development server:
+# DashGo.
+
+### Ignite Project! An application developed with excellent interface tools, in addition to other sensational features.
+
+<br/>
+<br/>
+
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/) ![Badge](https://img.shields.io/static/v1?label=MadeWith&message=TypeScript&color=OO7accstyle=for-the-badge&logo=ghost) ![Badge](https://img.shields.io/static/v1?label=Usage&message=ReactJS&color=007accstyle=for-the-badge&logo=ghost) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+
+<br/>
+<br/>
+
+🛠 Technologies
+=================
+The following tools were used in building the project:
+
+- 👉 [ChakraUI](https://chakra-ui.com)
+- 👉 [React Hook Form](https://github.com/react-hook-form/react-hook-form)
+- 👉 [ReactJS](https://pt-br.reactjs.org/)
+- 👉 [TypeScript](https://www.typescriptlang.org/)
+- 👉 [ApexCharts](https://apexcharts.com)
+- 👉 [NextJS](https://nextjs.org)
+- 👉 [React Icons](https://react-icons.github.io/react-icons)
+- 👉 [React Query](https://react-query.tanstack.com/overview)
+- 👉 [Axios](https://axios-http.com/docs/intro)
+- 👉 [Yup](https://github.com/jquense/yup)
+- 👉 [MirageJS](https://miragejs.com)
+- 👉 [Sass](https://sass-lang.com)
+<br/>
+
+<p align="center">
+  🚧  Project Status 🚀 Complete!  🚧
+</p>
+<br/>
+
+Getting Started
+=================
+
+These instructions will get you a copy of the full project up and running on your local machine for development and testing purposes.
+
+The project can be built with npm or yarn, so choose one of the approach bellow in case you don't have any installed on your system.
+
+- Npm is distributed with Node.js which means that when you download Node.js, you automatically get npm installed on your computer. [Node.js](https://nodejs.org/en/)
+
+- Yarn is a package manager built by Facebook Team and seems to be faster than npm in general.
+
+<br/>
+
+Features 
+=================
+<br/>
+
+- [x] Interface created with Chakra UI
+- [x] API simulation with MirageJS
+- [x] Data caching with React Query
+- [x] Data sharing with useContext
+- [x] Responsiveness
+- [x] Form validation with Yup
+- [x] Form control with React-Hook-Form
+- [x] Pagination
+- [x] Styling with SASS
+
+
+<br/>
+
+How to Install
+=================
+
+- To download the project follow the instructions bellow:
 
 ```bash
-npm run dev
-# or
-yarn dev
+1. git clone 
+2. cd dashgo
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Install the dependencies and start the server:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+3. yarn
+4. yarn dev
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- or
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```bash
+3. npm install
+4. npm dev
+```
 
-## Learn More
+- Access in Browser
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+5. http://localhost:3000/
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<br/>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Screen Shots
+=================
 
-## Deploy on Vercel
+- Login
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![ScreenShot](/public/login.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<br/>
+
+- Login Validations
+
+![ScreenShot](/public/login-invalid.png)
+
+<br/>
+
+- Dashboard
+
+![ScreenShot](/public/dashboard.png)
+
+<br/>
+
+- Users
+
+![ScreenShot](/public/users.png)
+
+<br/>
+
+- Create User
+
+![ScreenShot](/public/create-user.png)
+
+<br/>
+
+Author
+=================
+
+Luiz Felipe S. Felizatti 🎯 
+
+Contact:
+
+- [Linkedin](https://www.linkedin.com/in/luiz-felipe-siqueira-felizatti-00783a1ab/)
+
+- [Instagram](https://www.instagram.com/luiz_2fs/)
